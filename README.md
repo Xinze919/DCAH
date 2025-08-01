@@ -1,1 +1,1 @@
-The implementation of DCAH loss.
+The core implementation of DCAH framework.
